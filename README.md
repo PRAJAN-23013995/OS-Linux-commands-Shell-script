@@ -4,6 +4,7 @@ Operating systems Lab exercise
 Linux commands-Shell scripting
 
 NAME : PRAJAN P
+
 REG NO: 212223240121
 
 # AIM:
